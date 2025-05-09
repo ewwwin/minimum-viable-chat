@@ -9,7 +9,6 @@ createServer(async (request, response) => {
 	} else {
 		response.writeHead(200, {
 			'content-type': 'text/html',
-			'refresh': '30', // lfmoa
 		}).end(
 			`<pre>${
 				(await readFile('a.txt', {flag: 'a+', encoding: 'utf8'}))
