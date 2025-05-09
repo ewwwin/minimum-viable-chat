@@ -18,7 +18,7 @@ createServer(async (request, response) => {
 						'<': '&lt;',
 						'>': '&gt;',
 						'&': '&amp;',
-						'\'': '&apos',
+						'\'': '&apos;',
 						'"': '&quot;',
 					})[match])
 			}</pre><form><input type=text name=chat autofocus><button>send`
