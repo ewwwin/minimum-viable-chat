@@ -20,7 +20,7 @@ createServer(async (request, response) => {
 						'\'': '&apos;',
 						'"': '&quot;',
 					})[match])
-			}</pre><form><input type=text name=chat autofocus><button>send`
+			}</pre><a style="float:right" href="https://github.com/ewwwin/minimum-viable-chat">source</a><form><input type=text name=chat autofocus><button>send`
 		);
 	}
 }).listen(process.env.PORT || 80, () => console.log(`hiiiii ^w^ hai hii :3`));
