@@ -10,7 +10,7 @@ createServer(async (request, response) => {
 		response.writeHead(200, {
 			'content-type': 'text/html',
 		}).end(
-			`<meta name=viewport content="width=device-width,initial-scale=1"><pre style="white-space:pre-wrap;text-indent:4ch hanging each-line">${
+			`<meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1"><pre style="white-space:pre-wrap;text-indent:4ch hanging each-line">${
 				(await readFile('a.txt', {flag: 'a+', encoding: 'utf8'}))
 					// ugh, fine, i'll html escape it. no xss for you
 					.replace(/[<>&'"]/g, match => ({
