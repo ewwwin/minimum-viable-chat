@@ -35,6 +35,19 @@ those things has happened yet you can probably use the app.
 
 listens on port 80 by default; override with the `PORT` environment variable.
 
+## derivative works
+
+this project has successfully inspired multiple friends to get off their asses
+and start on their own chat projects which are both real *and* more functional!
+
+- [semi-minimum viable chat](https://social.treehouse.systems/@tempest/114482211024467108), at [semi.minimumviable.chat](https://semi.minimumviable.chat)
+- [minimumest viable chat](https://void.lgbt/notice/AuCfCWFogH1DgqvCr2), at [streaming.minimumviable.chat](https://streaming.minimumviable.chat)
+
+if you've been similarly inspired to bring a chat app into existence, good or
+bad, as a result of this shitpost - let me know! i'll add your project to this
+list, and if you want i'll even CNAME a subdomain of minimumviable.chat to you
+if it would suit your project.
+
 ## license
 
 i will assign this code's copyright to the next person who donates ten dollars
