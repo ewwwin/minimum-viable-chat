@@ -50,7 +50,10 @@ if it would suit your project.
 
 ## license
 
-i will assign this code's copyright to the next person who donates ten dollars
-to my ko-fi. i am writing this document while bored in the las vegas airport on
-a five hour layover and all the food here is so fucking expensive oh my god dude
-i just wanted a slice of pizza.
+the below offer has been taken by [7](https://0x0079.codeberg.page/), who now
+holds the copyright to this code. legally, this shit is her problem now.
+
+> i will assign this code's copyright to the next person who donates ten dollars
+> to my ko-fi. i am writing this document while bored in the las vegas airport
+> on a five hour layover and all the food here is so fucking expensive oh my god
+> dude i just wanted a slice of pizza.
